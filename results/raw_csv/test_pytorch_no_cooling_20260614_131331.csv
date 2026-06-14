@@ -1,0 +1,4 @@
+timestamp,elapsed_seconds,temperature_C,cpu_freq_MHz,throttle_status,fps,ram_usage_MB,cpu_percent
+2026-06-14 13:13:33,2.0,51.6,1500.0,throttled=0x0,25.0,13.2,0.0
+2026-06-14 13:13:36,5.0,52.7,1500.0,throttled=0x0,25.0,13.2,0.3
+2026-06-14 13:13:39,8.0,52.7,1500.0,throttled=0x0,25.0,13.2,0.2
