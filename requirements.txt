@@ -1,0 +1,6 @@
+ultralytics==8.4.66
+opencv-python-headless==4.13.0
+psutil
+onnxruntime
+openvino
+numpy
