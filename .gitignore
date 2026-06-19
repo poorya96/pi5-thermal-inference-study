@@ -1,0 +1,23 @@
+# models
+models/
+
+# data
+data/
+
+# results (raw CSVs — large files, not for git)
+results/raw_csv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
